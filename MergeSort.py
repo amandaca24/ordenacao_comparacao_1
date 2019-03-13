@@ -31,4 +31,10 @@ def mergeSort(lista):
             k = k+1
 
     print(lista)
+    
+    
+lista = [54,26,93,17,77,31,44,55,20]
+mergeSort(lista)
+print(lista)
+
 
